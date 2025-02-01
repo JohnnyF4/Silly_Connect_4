@@ -1,0 +1,11 @@
+
+How to play connect 4:
+- Number of players: 2
+- Each player takes turns dropping pieces onto the board
+- Once a player has aligned 4 pieces, either, horizontally, vertically or diagonally, that player wins
+
+- Type "play" onto the console when you want to begin
+- Use the pygame window to play by clicking on the column you wish to place your piece
+  - The game automatically closes when someone wins
+
+- Have Fun! =)
